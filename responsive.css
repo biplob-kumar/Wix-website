@@ -23,7 +23,7 @@
 
   }
 
-  /*  */
+  /* android section  */
   @media only screen and (max-width: 480px) {
     .android-img img{
    width: 100%;
@@ -36,22 +36,34 @@
         
       }
   }
-  /*  */
+  /* android-section */
 
-  /*  */
+  /*i phone section start  */
   @media only screen and (max-width: 480px) {
     .i-phone-content{
         text-align: center;
         position: relative;
         top: 5%;
-        
       }
       .i-phone-content i{
        text-align: center;
        
       }
   }
-  /*  */
+  /* i pghone section  */
 
+  /*  */
+  @media only screen and (max-width: 480px) {
+    .vide-content h2{
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #aaa;
+      }
+      .vide-content p{
+        color: #aaa;
+        line-height: 25px;
+      }
+  }
+  /*  */
 
 /*  Start */
