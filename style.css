@@ -8,10 +8,6 @@ body{
   overflow-x: hidden;
 }
 /*  default css end  */
-
-
-
-
 /*  nav css start */
 nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
   background-color: rgba(37,42,45,255);
@@ -36,10 +32,11 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
   font-size: 1.2rem;
 }
 .hero-mobile img{
+ 
+ 
   max-width: 100%;
 }
 /*  hero nsection css  end  */
-
 /*  service section css start */
 .service-card-content h6{
 font-size: 2rem;
@@ -51,7 +48,6 @@ color: whitesmoke;
 .android-content h4{
   font-weight: 700;
   font-size: 3rem;
-
 }
 /*  android-sectionend  */
 
@@ -59,7 +55,6 @@ color: whitesmoke;
 .i-phone-content{
   position: relative;
   top: 30%;
-  
 }
 .i-phone-content h3{
   font-size: 3rem;
@@ -72,7 +67,6 @@ color: whitesmoke;
   color: rgb(177, 181, 185);
   line-height: 30px;
 }
-
 /*    i phone section css start  */
 
 /*  describtion videi css start*/
@@ -86,3 +80,33 @@ color: whitesmoke;
   line-height: 30px;
 }
 /*  describtion videi css  end */
+
+/*  Mix-app theme css start */
+.theme-bg{
+  background: url(./img/bg2.jpg) no-repeat center;
+  background-size: cover;
+  height: 100vh;
+}
+.secund-mix{
+height: 80vh;
+}
+/*  Mix-app theme css  end  */
+/*  download-section start*/
+.download-section{
+  background: url(./img/1\ \(5\).jpg) no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height: 80vh;
+ background-attachment: fixed;
+}
+.download-content h1{
+  font-size: 5rem;
+  color: whitesmoke;
+  font-weight: 900;
+}
+.download-content p{
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+/*  download-section  end */
