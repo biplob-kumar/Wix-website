@@ -23,6 +23,21 @@
 
   }
 
+  /*  */
+  @media only screen and (max-width: 480px) {
+    .android-img img{
+   width: 100%;
+    }
+    .android-content h4{
+        justify-content: center;
+        width: 100%;
+        font-weight: 700;
+        font-size: 2rem;
+        
+      }
+  }
+  /*  */
+
 
 
 /*  Start */

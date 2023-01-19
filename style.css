@@ -22,12 +22,12 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
   font-weight: 700;
   color: whitesmoke;
 }
-.nav-button button{
+/* .nav-button button{
   background: #FC453F;
   border: none;
   padding: 10px 20px ;
   border-radius: 20px;
-}
+} */
 /*  nav css  end  */
 .hero-section{
   background: url(./img/bg.jpg);
@@ -47,12 +47,16 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
 /*  hero nsection css  end  */
 
 /*  service section css start */
-
-
-
 .service-card-content h6{
 font-size: 2rem;
 color: whitesmoke;
 }
-
 /*  service section css  end  */
+
+/*  android-section start */
+.android-content h4{
+  font-weight: 700;
+  font-size: 3rem;
+
+}
+/*  android-sectionend  */
