@@ -4,15 +4,13 @@
 /*  google front  end  */
 
 /*  default css start */
-
-
 body{
   overflow-x: hidden;
 }
-
 /*  default css end  */
 
-/*  hero nsection css start */
+
+
 
 /*  nav css start */
 nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
@@ -22,13 +20,9 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
   font-weight: 700;
   color: whitesmoke;
 }
-/* .nav-button button{
-  background: #FC453F;
-  border: none;
-  padding: 10px 20px ;
-  border-radius: 20px;
-} */
 /*  nav css  end  */
+
+/*  hero nsection css start */
 .hero-section{
   background: url(./img/bg.jpg);
   background-size: cover;
@@ -60,3 +54,24 @@ color: whitesmoke;
 
 }
 /*  android-sectionend  */
+
+/*    i phone section css start  */
+.i-phone-content{
+  position: relative;
+  top: 30%;
+  
+}
+.i-phone-content h3{
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+.i-phone-content h5{
+  font-weight: 500;
+}
+.i-phone-content p{
+  color: rgb(177, 181, 185);
+  line-height: 30px;
+}
+
+
+/*    i phone section css start  */
