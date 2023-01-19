@@ -35,7 +35,6 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
   width: 100%;
   height: 130vh;
 }
-.hero-section-header{}
 .hero-section-header h2{
   font-size: 3rem;
 }
@@ -48,5 +47,12 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
 /*  hero nsection css  end  */
 
 /*  service section css start */
+
+
+
+.service-card-content h6{
+font-size: 2rem;
+color: whitesmoke;
+}
 
 /*  service section css  end  */

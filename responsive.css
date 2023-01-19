@@ -17,7 +17,7 @@
         font-size: .5rem;
       }
       .hero-mobile img{
-    
+         height: auto;
         max-width: 100%;
       }
 
