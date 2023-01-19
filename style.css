@@ -23,8 +23,9 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
   background: url(./img/bg.jpg);
   background-size: cover;
   width: 100%;
-  height: 180vh;
+  height: 100vh;
 }
+
 .hero-section-header h2{
   font-size: 3rem;
 }
@@ -33,10 +34,6 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-lg-top {
 }
 
 
-.hero-mobile img{
-  width: 100%;
-  max-width: 100%;
-}
 /*  hero nsection css  end  */
 /*  service section css start */
 .service-card-content h6{
@@ -205,3 +202,17 @@ text-decoration: none;
 }
 
 /*  pricing-table css  end  */
+
+/*  contact-section  start */
+.contact-section{
+  background: url(./img/bg.jpg) no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height: 80vh;
+  background-attachment: fixed;
+}
+.contact-content h3{
+  font-size: 5rem;
+}
+
+/*  contact-section   end  */
