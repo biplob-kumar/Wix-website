@@ -3,7 +3,7 @@
 @media only screen and (max-width: 480px) {
     .hero-section{
         width: 100%;
-        height: 70vh;
+        height: 130vh;
       }
       .hero-section-header h2{
         margin-top: 1rem;
@@ -13,6 +13,7 @@
         font-size: .5rem;
       }
       .hero-mobile img{
+       
          height: auto;
         max-width: 100%;
       }
@@ -78,5 +79,29 @@
       }
       
   }
+  /*  */
+
+  @media only screen and (max-width: 480px) {
+    .coll-fact-section{
+        height: 100%;
+        
+      }
+  }
+  /*  */
+
+  /*  */
+  @media only screen and (max-width: 480px) {
+    .card{
+     
+      position: relative;
+      left: 10%;
+    }
+    .card-2{
+     
+      position: relative;
+      left: 10%;
+    }
+  }
+  /*  */
 
 /*  Start */
